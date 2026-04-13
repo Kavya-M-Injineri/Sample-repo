@@ -1,1 +1,4 @@
 Type anything
+restore - undo changes
+reset- unstaged files
+ci-cd
