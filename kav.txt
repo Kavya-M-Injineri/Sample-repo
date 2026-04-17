@@ -12,3 +12,11 @@ github actions
 actions
 
 groovy
+
+maven for java
+
+and python for other
+
+mostly used is java
+
+i dont remember anything
