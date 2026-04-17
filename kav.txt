@@ -2,3 +2,13 @@ Type anything
 restore - undo changes
 reset- unstaged files
 ci-cd
+
+hello
+yaml
+(yet another markup language)
+
+github actions
+
+actions
+
+groovy
