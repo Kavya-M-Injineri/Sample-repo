@@ -1,3 +1,21 @@
+After installing java and jenkins in Ubantu
+Next in browser i have to open  localhost8080
+
+then in terminal
+sudo su -
+next we'll get root@username
+then
+cat (copy paste the thing in the browser like var/ / // initial admin pass)
+then I'll get hash(password)
+
+then paste the hash/password in browser
+then it will open
+next plugins install
+create first admin user(profile)
+
+for me name to password to email
+everything is admin 
+
 In order to create pipeline first we have to download
 ## Jenkins
 Then after going to jenkins dashboard we have to select puggins download 
