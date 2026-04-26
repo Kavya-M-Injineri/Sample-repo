@@ -12,7 +12,7 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   In terminal type:
   sudo su -
   cat /var/lib/jenkins/secrets/initialAdminPassword
-  Copy the password and paste it into the browser.
+  Copy the password and paste it into the browser.  
 
 4 Setup Jenkins
   Click on "Install Suggested Plugins" 
