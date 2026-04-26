@@ -9,7 +9,7 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   Go to: http://localhost:8080
 
 3 Get Initial Admin Password  
-  In terminal type:
+  In terminal type: 
   sudo su -  
   cat /var/lib/jenkins/secrets/initialAdminPassword
   Copy the password and paste it into the browser.  
