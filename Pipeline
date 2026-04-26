@@ -14,7 +14,7 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   cat /var/lib/jenkins/secrets/initialAdminPassword
   Copy the password and paste it into the browser.  
 
-4 Setup Jenkins
+4 Setup Jenkins 
   Click on "Install Suggested Plugins" 
   Wait for all plugins to install. 
  
