@@ -29,3 +29,10 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   Install:
   Git Plugin
   Pipeline Plugin
+
+7 Create a Pipeline Job
+  Go to Dashboard
+  Click "New Item"
+  Enter a name (example: MyPipeline)
+  Select "Pipeline"
+  Click OK
