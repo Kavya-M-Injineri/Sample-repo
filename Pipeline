@@ -16,7 +16,7 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
 
 4 Setup Jenkins
   Click on "Install Suggested Plugins" 
-  Wait for all plugins to install.
+  Wait for all plugins to install. 
  
 5 Create Admin User
   Enter details like:
