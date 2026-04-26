@@ -6,3 +6,4 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   sudo systemctl enable jenkins
 
 2 Open Jenkins in Browser
+  Go to: http://localhost:8080
