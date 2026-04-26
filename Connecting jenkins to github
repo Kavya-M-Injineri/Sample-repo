@@ -22,45 +22,48 @@
 
  3. Make Jenkins Accessible (IMPORTANT)
 
-GitHub needs to reach your Jenkins server.
+    GitHub needs to reach your Jenkins server.
 
-If running locally (Ubuntu):
+    If running locally (Ubuntu):
 
-Use a tool like ngrok
+    Use a tool like ngrok
 
-Steps:
+    Steps:
 
-Install ngrok
-Run:
-ngrok http 8080
-You’ll get a public URL like:
-https://abcd1234.ngrok.io
-🔔 4. Add Webhook in GitHub
+    Install ngrok
+    Run:
+    ngrok http 8080
+    You’ll get a public URL like:
+    https://abcd1234.ngrok.io
 
-Go to your GitHub repository → Settings → Webhooks → Add Webhook
+ 4. Add Webhook in GitHub
 
-Fill:
+    Go to your GitHub repository → Settings → Webhooks → Add Webhook
 
-Payload URL:
-https://your-ngrok-url/github-webhook/
+    Fill:
 
-(Example: https://abcd1234.ngrok.io/github-webhook/
-)
+    Payload URL:
+    https://your-ngrok-url/github-webhook/
 
-Content type:
-application/json
-Events:
-Select Just the push event
+    (Example: https://abcd1234.ngrok.io/github-webhook/)
 
-Click Add Webhook
 
-🧪 5. Test It
-Make a change in your repo
-Push to GitHub
+     Content type:
+     application/json
+     Events:
+     Select Just the push event
 
-👉 Jenkins will automatically start a build 🎉
+     Click Add Webhook
 
-✅ 6. Check in Jenkins
-Go to your pipeline
+ 5. Test It
+    Make a change in your repo
+    Push to GitHub
+
+ Jenkins will automatically start a build 
+
+ 6. Check in Jenkins
+    Go to your pipeline
+    Click Build History
+    Open latest build → Console Output
 Click Build History
 Open latest build → Console Output
