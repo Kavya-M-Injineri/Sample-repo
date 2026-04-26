@@ -10,7 +10,7 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
 
 3 Get Initial Admin Password  
   In terminal type:
-  sudo su -
+  sudo su -  
   cat /var/lib/jenkins/secrets/initialAdminPassword
   Copy the password and paste it into the browser.  
 
