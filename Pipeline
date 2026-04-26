@@ -1,3 +1,7 @@
 In order to create pipeline first we have to download
 ## Jenkins
 Then after going to jenkins dashboard we have to select puggins download 
+after setting all up
+click new item
+and then we have to give name for the pipeline and select pipeline for it
+{ in pipeline we would have agents in that select or write any stages and then the stage steps to scroll go to pipeline syntax from artifacts select git and url and branch (make  sure the branch name is same as in Github)
