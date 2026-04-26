@@ -29,7 +29,7 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   Install:
 
 7 Create a Pipeline Job
-  Go to Dashboard
+  Go to Dashboard 
   Click "New Item"
   Enter a name (example: MyPipeline)
   Select "Pipeline"
