@@ -8,7 +8,7 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
 2 Open Jenkins in Browser
   Go to: http://localhost:8080
 
-3 Get Initial Admin Password 
+3 Get Initial Admin Password  
   In terminal type:
   sudo su -
   cat /var/lib/jenkins/secrets/initialAdminPassword
