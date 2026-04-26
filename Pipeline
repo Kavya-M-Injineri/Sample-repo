@@ -23,3 +23,9 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   Username: admin
   Password: admin
   Email: admin@example.com
+
+6 Install Required Plugins (if needed)
+  Go to Manage Jenkins → Plugins
+  Install:
+  Git Plugin
+  Pipeline Plugin
