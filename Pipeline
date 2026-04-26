@@ -6,4 +6,4 @@ click new item
 and then we have to give name for the pipeline and select pipeline for it
 { in pipeline we would have agents in that select or write any stages and then the stage steps to scroll go to pipeline syntax from artifacts select git and url and branch (make  sure the branch name is same as in Github)
 and then click save 
-copy the clone code given in that jenkins page and paste it to the pipeline steps and save to come back select the pipeline name and connfigure  
+copy the clone code given in that jenkins page and paste it to the pipeline steps and save to come back select the pipeline name and configure  
