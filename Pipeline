@@ -61,3 +61,16 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
         }  
     }  
 }  
+
+9 Using Pipeline Syntax Generator
+  Inside Jenkins click "Pipeline Syntax"
+  Select "git"
+  Enter repository URL
+  Enter branch name (same as GitHub)
+  Click Generate
+  Copy and paste into pipeline script
+
+10 Save and Run
+   Click Save
+   Click "Build Now"
+   Open build → Console Output
