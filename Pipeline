@@ -27,8 +27,6 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
 6 Install Required Plugins (if needed)
   Go to Manage Jenkins → Plugins
   Install:
-  Git Plugin
-  Pipeline Plugin
 
 7 Create a Pipeline Job
   Go to Dashboard
@@ -36,3 +34,30 @@ JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
   Enter a name (example: MyPipeline)
   Select "Pipeline"
   Click OK
+
+8 Configure Pipeline
+  Scroll down to Pipeline section
+
+  Write pipeline script like this:
+
+  pipeline {
+  agent any
+  stages {  
+    stage('Clone Repo') {  
+        steps {  
+            git branch: 'main', url: 'https://github.com/your-repo.git'  
+        }  
+    }  
+
+    stage('Build') {  
+        steps {  
+            echo "Building project..."  
+        }  
+    }  
+
+    stage('Test') {  
+        steps {  
+            echo "Running tests..."  
+        }  
+    }  
+}  
