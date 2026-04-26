@@ -59,11 +59,9 @@
     Make a change in your repo
     Push to GitHub
 
- Jenkins will automatically start a build 
+    Jenkins will automatically start a build 
 
  6. Check in Jenkins
     Go to your pipeline
     Click Build History
     Open latest build → Console Output
-Click Build History
-Open latest build → Console Output
