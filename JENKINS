@@ -8,7 +8,7 @@ Supports distributed builds across multiple machines
 Offers a wide range of plugins for customization
 
 Integration with Other Tools
-
+  
 Jenkins integrates with various tools to enhance development workflows:
 
 Works with version control systems like Git to trigger builds on code updates
