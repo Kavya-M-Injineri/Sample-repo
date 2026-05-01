@@ -2,3 +2,4 @@ Jenkins works closely with version control systems like Git to automatically tri
 It uses pipelines (defined in a Jenkinsfile) to describe the steps required for building, testing, and deploying applications.
 Jenkins integrates with build tools such as Maven and Gradle to manage project dependencies and compile code.
 It can be connected with container platforms like Docker to create consistent environments for testing and deployment.
+Jenkins supports integration with cloud platforms and orchestration tools like Kubernetes for scalable deployments.
