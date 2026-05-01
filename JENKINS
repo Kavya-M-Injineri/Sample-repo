@@ -1,0 +1,2 @@
+Jenkins works closely with version control systems like Git to automatically trigger builds whenever code is updated.
+It uses pipelines (defined in a Jenkinsfile) to describe the steps required for building, testing, and deploying applications.
