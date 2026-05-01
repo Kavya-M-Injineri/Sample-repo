@@ -15,7 +15,7 @@ Works with version control systems like Git to trigger builds on code updates
 Uses build tools such as Maven and Gradle
 Supports containerization with Docker
 Can be deployed and scaled using Kubernetes
-
+        
 Jenkins Pipeline
 
 Jenkins allows developers to define pipelines using a Jenkinsfile, which describes the steps required to build, test, and deploy an application automatically.
