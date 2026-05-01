@@ -7,7 +7,7 @@ Helps detect bugs early by running tests on every code change
 Supports distributed builds across multiple machines
 Offers a wide range of plugins for customization
 
-Integration with Other Tools
+Integration with Other Tools                         
   
 Jenkins integrates with various tools to enhance development workflows:
 
