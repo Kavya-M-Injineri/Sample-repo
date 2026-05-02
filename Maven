@@ -1,30 +1,38 @@
----
 # Maven Integration
---
+
+---
+
 ### Description
-Maven is a build automation and project management tool used primarily for Java projects. It uses a Project Object Model (POM) to manage a project's build, reporting, and documentation from a central piece of information.
+**Maven** is a build automation and project management tool used primarily for Java projects. It uses a **Project Object Model (POM)** to manage a project's build, reporting, and documentation from a central piece of information.
+
 ---
+
 ### Core Concepts
----
+
 #### 1. Project Object Model (POM)
-The `pom.xml` file is the fundamental unit of work in Maven. It contains information about the project and configuration details used by Maven to build the project, including dependencies, plugins, and goals.
----
+The `pom.xml` file is the fundamental unit of work in Maven. It contains information about the project and configuration details used by Maven to build the project, including:
+*   **Dependencies**: External libraries required for the project.
+*   **Plugins**: Actions to be performed during the build.
+*   **Goals**: Specific tasks (like compiling or testing).
+
 #### 2. Dependency Management
-Maven simplifies the process of managing library dependencies. By specifying the `groupId`, `artifactId`, and `version`, Maven automatically downloads and includes the necessary libraries from the Maven Central Repository.
----
+Maven simplifies the process of managing library dependencies. By specifying the `groupId`, `artifactId`, and `version`, Maven automatically downloads and includes the necessary libraries from the **Maven Central Repository**.
+
 #### 3. Build Lifecycle
-Maven is based on the central concept of a build lifecycle. The process of building and distributing a project is clearly defined:
-- **validate**: Check if the project is correct and all necessary information is available.
-- **compile**: Compile the source code of the project.
-- **test**: Run tests using a suitable unit testing framework.
-- **package**: Take the compiled code and package it in its distributable format (e.g., JAR, WAR).
-- **verify**: Run checks on the results of integration tests to ensure quality criteria are met.
-- **install**: Install the package into the local repository for use as a dependency in other projects.
-- **deploy**: Copy the final package to the remote repository for sharing with other developers.
+Maven is based on the central concept of a build lifecycle. The process is clearly defined:
+
+*   **validate**: Check if the project is correct and all info is available.
+*   **compile**: Compile the source code of the project.
+*   **test**: Run tests using a unit testing framework.
+*   **package**: Create the distributable format (e.g., JAR, WAR).
+*   **verify**: Run checks on integration tests for quality.
+*   **install**: Install the package into the local repository.
+*   **deploy**: Copy the final package to a remote repository.
+
+---
 
 ### Common Commands
-The following commands are used within the Shell Tool to interact with Maven projects:
-
+The following commands are used within the **Shell Tool** to interact with Maven projects:
 ```bash
 # Clean the project and install dependencies
 mvn clean install
@@ -40,25 +48,3 @@ mvn package
 
 # Check for dependency updates
 mvn versions:display-dependency-updates
-
-Integration Notes
-Environment: Requires the Java Development Kit (JDK) and Maven to be installed on the host system.
-
-Automation: The agent uses Maven to validate code changes, run automated suites, and ensure that new contributions do not break existing builds.
-
-Caching: Maven stores downloaded dependencies in a local .m2 directory to speed up subsequent builds.
-
-Security Considerations
-Plugin Validation: Only use trusted plugins from official repositories.
-
-Dependency Scanning: Use tools like dependency-check to scan for known vulnerabilities in third-party libraries.
-
-Network Access: Maven requires internet access to download dependencies; ensure this is permitted in your environment configuration.
-
----
-
-### How to use this:
-1.  **Create the file**: In your repository, navigate to `docs/tools/`.
-2.  **Name the file**: Create a new file named `maven.mdx`.
-3.  **Paste the content**: Copy the block above and paste it into the file.
-4.  **Reference it**: If you have a sidebar or a main `README.md` that lists tools, add a link to `docs/tools/maven.mdx`.
