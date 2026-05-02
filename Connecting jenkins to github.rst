@@ -1,5 +1,8 @@
- CONNECT JENKINS TO GITHUB (AUTO BUILD)
- 1. Install Required Plugins in Jenkins
+#  CONNECT JENKINS TO GITHUB (AUTO BUILD)
+
+---
+
+### 1. Install Required Plugins in Jenkins
 
     Go to:
     Manage Jenkins → Plugins
@@ -11,7 +14,9 @@
 
      Restart Jenkins after installing.
 
- 2. Configure Your Pipeline Job
+---
+
+### 2. Configure Your Pipeline Job
     Go to your pipeline job
     Click Configure
     In Build Triggers, select:
@@ -20,7 +25,9 @@
 
     Click Save
 
- 3. Make Jenkins Accessible (IMPORTANT)
+---
+
+### 3. Make Jenkins Accessible (IMPORTANT)
 
     GitHub needs to reach your Jenkins server.
 
@@ -36,7 +43,9 @@
     You’ll get a public URL like:
     https://abcd1234.ngrok.io
 
- 4. Add Webhook in GitHub
+---
+
+### 4. Add Webhook in GitHub
 
     Go to your GitHub repository → Settings → Webhooks → Add Webhook
 
@@ -55,13 +64,19 @@
 
      Click Add Webhook
 
- 5. Test It
+---
+
+### 5. Test It
     Make a change in your repo
     Push to GitHub
 
     Jenkins will automatically start a build 
 
- 6. Check in Jenkins
+---
+
+### 6. Check in Jenkins
     Go to your pipeline
     Click Build History
     Open latest build → Console Output
+
+---
