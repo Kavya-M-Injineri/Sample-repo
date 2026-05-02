@@ -76,7 +76,9 @@
     }  
 }  
 
-9 Using Pipeline Syntax Generator
+---
+
+### 9 Using Pipeline Syntax Generator
   Inside Jenkins click "Pipeline Syntax"
   Select "git"
   Enter repository URL
@@ -84,7 +86,11 @@
   Click Generate
   Copy and paste into pipeline script
 
-10 Save and Run
+---
+
+### 10 Save and Run
    Click Save
    Click "Build Now"
    Open build → Console Output
+
+---
