@@ -1,9 +1,9 @@
 ## JENKINS SETUP AND PIPELINE CREATION (STEP BY STEP)
  
 ### 1 Install Java and Jenkins on Ubuntu
-  After installing, start Jenkins using terminal:
-  sudo systemctl start jenkins
-  sudo systemctl enable jenkins
+  - After installing, start Jenkins using terminal:
+  - sudo systemctl start jenkins
+  - sudo systemctl enable jenkins
 
 ### 2 Open Jenkins in Browser
   Go to: http://localhost:8080 
