@@ -12,6 +12,7 @@ Jenkins is an open-source automation server used to build, test, and deploy soft
 ---
 ## Integration with Other Tools                         
 ---  
+
 Jenkins integrates with various tools to enhance development workflows:
 
 - Works with version control systems like Git to trigger builds on code updates
