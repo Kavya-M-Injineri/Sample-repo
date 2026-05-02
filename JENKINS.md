@@ -21,19 +21,31 @@ Jenkins integrates with various tools to enhance development workflows:
 - Can be deployed and scaled using Kubernetes
   
 ---
+# Jenkins Pipeline
 
-## Jenkins Pipeline
 ---
 
-Jenkins allows developers to define pipelines using a Jenkinsfile, which describes the steps required to build, test, and deploy an application automatically.
+### Description
+**Jenkins** allows developers to define pipelines using a `Jenkinsfile`, which describes the steps required to build, test, and deploy an application automatically[cite: 1].
+
 ---
-Jenkins works closely with version control systems like Git to automatically trigger builds whenever code is updated.
-It uses pipelines (defined in a Jenkinsfile) to describe the steps required for building, testing, and deploying applications.
-Jenkins integrates with build tools such as Maven and Gradle to manage project dependencies and compile code.
-It can be connected with container platforms like Docker to create consistent environments for testing and deployment.
-Jenkins supports integration with cloud platforms and orchestration tools like Kubernetes for scalable deployments.
-Plugins in Jenkins allow integration with testing frameworks, notification systems, and security tools, making it highly customizable.
+
+### Core Functions
+
+*   **Version Control Integration**: Jenkins works closely with systems like **Git** to trigger builds automatically whenever code is updated[cite: 1].
+*   **Pipeline as Code**: Uses pipelines (defined in a `Jenkinsfile`) to describe steps for building, testing, and deploying applications[cite: 1].
+*   **Build Tool Integration**: Connects with tools such as **Maven** and **Gradle** to manage dependencies and compile code[cite: 1].
+*   **Containerization**: Integrates with **Docker** to create consistent environments for testing and deployment[cite: 1].
+*   **Orchestration**: Supports **Kubernetes** for scalable, cloud-native deployments[cite: 1].
+*   **Extensibility**: Uses plugins for testing frameworks, notification systems, and security tools[cite: 1].
+
 ---
+
+### Usage in Shell Tool
+The agent can interact with Jenkins via the shell to trigger jobs or check build status[cite: 1]:
+```bash
+# Example: Trigger a build for a specific job
+jenkins-cli build "Project-Name" --wait --tail
 ## Conclusion
 
 Jenkins is a powerful and flexible tool that helps teams automate their software development lifecycle, making development faster and more reliable.
