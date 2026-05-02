@@ -1,16 +1,17 @@
+---
 # Maven Integration
-
+--
 ### Description
 Maven is a build automation and project management tool used primarily for Java projects. It uses a Project Object Model (POM) to manage a project's build, reporting, and documentation from a central piece of information.
-
+---
 ### Core Concepts
-
+---
 #### 1. Project Object Model (POM)
 The `pom.xml` file is the fundamental unit of work in Maven. It contains information about the project and configuration details used by Maven to build the project, including dependencies, plugins, and goals.
-
+---
 #### 2. Dependency Management
 Maven simplifies the process of managing library dependencies. By specifying the `groupId`, `artifactId`, and `version`, Maven automatically downloads and includes the necessary libraries from the Maven Central Repository.
-
+---
 #### 3. Build Lifecycle
 Maven is based on the central concept of a build lifecycle. The process of building and distributing a project is clearly defined:
 - **validate**: Check if the project is correct and all necessary information is available.
