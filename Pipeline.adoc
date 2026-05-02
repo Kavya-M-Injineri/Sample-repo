@@ -14,28 +14,28 @@
   cat /var/lib/jenkins/secrets/initialAdminPassword
   Copy the password and paste it into the browser.  
  
-4 Setup Jenkins 
+### 4 Setup Jenkins 
   Click on "Install Suggested Plugins" 
   Wait for all plugins to install. 
  
-5 Create Admin User
+### 5 Create Admin User
   Enter details like:
   Username: admin
   Password: admin
   Email: admin@example.com
 
-6 Install Required Plugins (if needed)
+### 6 Install Required Plugins (if needed)
   Go to Manage Jenkins → Plugins
   Install:
 
-7 Create a Pipeline Job
+### 7 Create a Pipeline Job
   Go to Dashboard 
   Click "New Item"
   Enter a name (example: MyPipeline)
   Select "Pipeline"
   Click OK
 
-8 Configure Pipeline
+### 8 Configure Pipeline
   Scroll down to Pipeline section
 
   Write pipeline script like this:
