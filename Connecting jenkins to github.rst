@@ -4,7 +4,7 @@
 
 ### 1. Install Required Plugins in Jenkins
 
-    Go to:
+    Go to: 
     Manage Jenkins → Plugins
 
     Install:
