@@ -1,13 +1,13 @@
-#  Jenkins Demo Project
+#  Jenkins Demo Project 
 
 This repository demonstrates how to integrate **Jenkins**, **GitHub Actions**, and **Maven** for building and automating a Java project.
 
 ---
 
-##  Overview
+##  Overview 
 
-This project shows:
-
+This project shows:   
+  
 * CI/CD using Jenkins
 * Automation using GitHub Actions
 * Build management using Maven
@@ -15,7 +15,7 @@ This project shows:
 
 ---
 
-##  Tech Stack
+##  Tech Stack 
 
 * Java
 * Maven
