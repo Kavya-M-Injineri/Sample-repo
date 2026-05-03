@@ -25,3 +25,49 @@ It helps you automate tasks like compiling code, running tests, and deploying ap
 A **workflow** is an automated process defined in a YAML file.
 
  Location:
+
+---
+
+### 2.  Event
+An **event** triggers the workflow.
+
+Examples:
+- `push` → when code is pushed  
+- `pull_request` → when a PR is created  
+- `schedule` → run at specific times  
+
+---
+
+### 3.  Job
+A **job** is a set of steps executed on the same runner.
+
+- A workflow can contain multiple jobs  
+- Jobs run in parallel by default  
+
+---
+
+### 4.  Step
+A **step** is an individual task within a job.
+
+Examples:
+- Install dependencies  
+- Run Maven build  
+- Execute tests  
+
+---
+
+### 5.  Runner
+A **runner** is the machine that executes the workflow.
+
+Types:
+- GitHub-hosted (e.g., `ubuntu-latest`)  
+- Self-hosted  
+
+---
+
+### 6.  Action
+An **action** is a reusable component used in workflows.
+
+Example:
+```yaml
+uses: actions/checkout@v3
