@@ -16,10 +16,10 @@
 
 ---                                
 
-### 2. Configure Your Pipeline Job
+### 2. Configure Your Pipeline Job                           
     Go to your pipeline job
     Click Configure
-    In Build Triggers, select:
+    In Build Triggers, select:                                 
 
     GitHub hook trigger for GITScm polling
 
