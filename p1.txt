@@ -1,9 +1,9 @@
 Open source contributions help improve software projects.
 Anyone can contribute to open source projects.
 Developers share their code publicly for everyone to use.
-4. Open source encourages collaboration among programmers.
-5. Contributions can include fixing bugs and errors.
-6. People can also add new features to projects.
+Open source encourages collaboration among programmers.
+Contributions can include fixing bugs and errors.
+People can also add new features to projects.
 7. Writing documentation is another valuable contribution.
 8. Open source helps beginners learn programming skills.
 9. Contributors gain real-world coding experience.
