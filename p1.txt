@@ -31,9 +31,9 @@ Open source supports transparency in software development.
 Contributors help solve real-world problems.
 Some contributions involve testing applications.
 Designers can also contribute to open source projects.
-34. Translating content is another form of contribution.
-35. Open source allows knowledge sharing among developers.
-36. Many educational tools are open source.
+Translating content is another form of contribution.
+Open source allows knowledge sharing among developers.
+Many educational tools are open source.
 37. Contributors can work remotely from anywhere.
 38. Open source communities are welcoming to beginners.
 39. Hackathons often encourage open source participation.
