@@ -37,10 +37,10 @@ Many educational tools are open source.
 Contributors can work remotely from anywhere.
 Open source communities are welcoming to beginners.
 Hackathons often encourage open source participation.
-40. Contributions can lead to career opportunities.
-41. Open source teaches patience and consistency.
-42. Developers improve communication skills through teamwork.
-43. Community support helps contributors grow.
+Contributions can lead to career opportunities.
+Open source teaches patience and consistency.
+Developers improve communication skills through teamwork.
+Community support helps contributors grow.
 44. Open source projects evolve continuously.
 45. Contributions make technology accessible to everyone.
 46. Ethical collaboration is important in open source.
