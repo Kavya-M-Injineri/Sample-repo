@@ -23,11 +23,11 @@ Open source projects often have active communities.
 Contributors can participate in discussions and reviews.
 Many popular apps use open source software.
 Linux is a famous open source operating system.
-26. Python has many open source libraries.
-27. Open source software benefits businesses and users.
-28. Contributions improve software performance and quality.
-29. Developers can learn coding standards from projects.
-30. Open source supports transparency in software development.
+Python has many open source libraries.
+Open source software benefits businesses and users.
+Contributions improve software performance and quality.
+Developers can learn coding standards from projects.
+Open source supports transparency in software development.
 31. Contributors help solve real-world problems.
 32. Some contributions involve testing applications.
 33. Designers can also contribute to open source projects.
