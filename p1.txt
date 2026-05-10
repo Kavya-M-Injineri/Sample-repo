@@ -22,9 +22,9 @@ Contributors receive feedback from experienced developers.
 Open source projects often have active communities.
 Contributors can participate in discussions and reviews.
 Many popular apps use open source software.
-25. Linux is a famous open source operating system.
-26. Python has many open source libraries.
-27. Open source software benefits businesses and users.
+Linux is a famous open source operating system.
+Python has many open source libraries.
+Open source software benefits businesses and users.
 28. Contributions improve software performance and quality.
 29. Developers can learn coding standards from projects.
 30. Open source supports transparency in software development.
