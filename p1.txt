@@ -13,9 +13,9 @@ Contributors learn version control systems like Git.
 Platforms like GitHub support open source projects.
 Open source projects are available for free.
 Many companies support open source communities.
-16. Contributions help make software more secure.
-17. Developers from different countries work together.
-18. Open source promotes innovation and creativity.
+Contributions help make software more secure.
+Developers from different countries work together.
+Open source promotes innovation and creativity.
 19. Students can build strong portfolios through contributions.
 20. It increases confidence in coding abilities.
 21. Contributors receive feedback from experienced developers.
