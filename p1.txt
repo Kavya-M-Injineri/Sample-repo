@@ -7,9 +7,9 @@ People can also add new features to projects.
 Writing documentation is another valuable contribution.
 Open source helps beginners learn programming skills.
 Contributors gain real-world coding experience.
-10. It improves problem-solving abilities.
-11. Teamwork skills are developed through collaboration.
-12. Contributors learn version control systems like Git.
+It improves problem-solving abilities.
+Teamwork skills are developed through collaboration.
+Contributors learn version control systems like Git.
 13. Platforms like GitHub support open source projects.
 14. Open source projects are available for free.
 15. Many companies support open source communities.
