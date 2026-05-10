@@ -41,10 +41,10 @@ Contributions can lead to career opportunities.
 Open source teaches patience and consistency.
 Developers improve communication skills through teamwork.
 Community support helps contributors grow.
-44. Open source projects evolve continuously.
-45. Contributions make technology accessible to everyone.
-46. Ethical collaboration is important in open source.
-47. Many successful technologies started as open source.
-48. Contributing regularly improves coding expertise.
-49. Open source creates a culture of learning and sharing.
-50. Open source contributions are valuable for personal and professional growth.
+Open source projects evolve continuously.
+Contributions make technology accessible to everyone.
+Ethical collaboration is important in open source.
+Many successful technologies started as open source.
+Contributing regularly improves coding expertise.
+Open source creates a culture of learning and sharing.
+Open source contributions are valuable for personal and professional growth.
