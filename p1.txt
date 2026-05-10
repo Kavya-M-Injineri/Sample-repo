@@ -34,9 +34,9 @@ Designers can also contribute to open source projects.
 Translating content is another form of contribution.
 Open source allows knowledge sharing among developers.
 Many educational tools are open source.
-37. Contributors can work remotely from anywhere.
-38. Open source communities are welcoming to beginners.
-39. Hackathons often encourage open source participation.
+Contributors can work remotely from anywhere.
+Open source communities are welcoming to beginners.
+Hackathons often encourage open source participation.
 40. Contributions can lead to career opportunities.
 41. Open source teaches patience and consistency.
 42. Developers improve communication skills through teamwork.
