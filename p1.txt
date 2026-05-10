@@ -10,9 +10,9 @@ Contributors gain real-world coding experience.
 It improves problem-solving abilities.
 Teamwork skills are developed through collaboration.
 Contributors learn version control systems like Git.
-13. Platforms like GitHub support open source projects.
-14. Open source projects are available for free.
-15. Many companies support open source communities.
+Platforms like GitHub support open source projects.
+Open source projects are available for free.
+Many companies support open source communities.
 16. Contributions help make software more secure.
 17. Developers from different countries work together.
 18. Open source promotes innovation and creativity.
