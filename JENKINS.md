@@ -30,9 +30,9 @@ Jenkins integrates with various tools to enhance development workflows:
 **Jenkins** allows developers to define pipelines using a `Jenkinsfile`, which describes the steps required to build, test, and deploy an application automatically[cite: 1].
 
 ---
-
+                           
 ### Core Functions
-
+                                                 
 *   **Version Control Integration**: Jenkins works closely with systems like **Git** to trigger builds automatically whenever code is updated[cite: 1].
 *   **Pipeline as Code**: Uses pipelines (defined in a `Jenkinsfile`) to describe steps for building, testing, and deploying applications[cite: 1].
 *   **Build Tool Integration**: Connects with tools such as **Maven** and **Gradle** to manage dependencies and compile code[cite: 1].
@@ -40,13 +40,13 @@ Jenkins integrates with various tools to enhance development workflows:
 *   **Orchestration**: Supports **Kubernetes** for scalable, cloud-native deployments[cite: 1].
 *   **Extensibility**: Uses plugins for testing frameworks, notification systems, and security tools[cite: 1].
 
----
+---                               
 
-### Usage in Shell Tool
+### Usage in Shell Tool             
 The agent can interact with Jenkins via the shell to trigger jobs or check build status[cite: 1]:
 ```bash
 # Example: Trigger a build for a specific job
-jenkins-cli build "Project-Name" --wait --tail
+jenkins-cli build "Project-Name" --wait --tail              
 ## Conclusion
 
 Jenkins is a powerful and flexible tool that helps teams automate their software development lifecycle, making development faster and more reliable.
