@@ -28,11 +28,11 @@ Open source software benefits businesses and users.
 Contributions improve software performance and quality.
 Developers can learn coding standards from projects.
 Open source supports transparency in software development.
-31. Contributors help solve real-world problems.
-32. Some contributions involve testing applications.
-33. Designers can also contribute to open source projects.
-34. Translating content is another form of contribution.
-35. Open source allows knowledge sharing among developers.
+Contributors help solve real-world problems.
+Some contributions involve testing applications.
+Designers can also contribute to open source projects.
+Translating content is another form of contribution.
+Open source allows knowledge sharing among developers.
 36. Many educational tools are open source.
 37. Contributors can work remotely from anywhere.
 38. Open source communities are welcoming to beginners.
