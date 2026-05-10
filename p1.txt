@@ -4,9 +4,9 @@ Developers share their code publicly for everyone to use.
 Open source encourages collaboration among programmers.
 Contributions can include fixing bugs and errors.
 People can also add new features to projects.
-7. Writing documentation is another valuable contribution.
-8. Open source helps beginners learn programming skills.
-9. Contributors gain real-world coding experience.
+Writing documentation is another valuable contribution.
+Open source helps beginners learn programming skills.
+Contributors gain real-world coding experience.
 10. It improves problem-solving abilities.
 11. Teamwork skills are developed through collaboration.
 12. Contributors learn version control systems like Git.
