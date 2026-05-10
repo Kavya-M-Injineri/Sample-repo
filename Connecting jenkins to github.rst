@@ -1,9 +1,9 @@
-#  CONNECT JENKINS TO GITHUB (AUTO BUILD)
+#  CONNECT JENKINS TO GITHUB (AUTO BUILD)                                     
 
 ---
-
+                                    
 ### 1. Install Required Plugins in Jenkins
-
+                                
     Go to: 
     Manage Jenkins → Plugins
 
@@ -14,7 +14,7 @@
 
      Restart Jenkins after installing.
 
----
+---                                
 
 ### 2. Configure Your Pipeline Job
     Go to your pipeline job
