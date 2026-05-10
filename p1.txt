@@ -16,9 +16,9 @@ Many companies support open source communities.
 Contributions help make software more secure.
 Developers from different countries work together.
 Open source promotes innovation and creativity.
-19. Students can build strong portfolios through contributions.
-20. It increases confidence in coding abilities.
-21. Contributors receive feedback from experienced developers.
+Students can build strong portfolios through contributions.
+It increases confidence in coding abilities.
+Contributors receive feedback from experienced developers.
 22. Open source projects often have active communities.
 23. Contributors can participate in discussions and reviews.
 24. Many popular apps use open source software.
