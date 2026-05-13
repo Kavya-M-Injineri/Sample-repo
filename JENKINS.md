@@ -1,4 +1,4 @@
-# Jenkins Overview                                                 jjjjjjjjjjjjjjj    
+# Jenkins Overview                                                  
 
 ---    
 Jenkins is an open-source automation server used to build, test, and deploy software efficiently. It plays a key role in modern DevOps practices by enabling continuous integration and continuous delivery (CI/CD).
